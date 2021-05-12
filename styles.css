@@ -82,3 +82,7 @@ input {
   font-size: 15px;
   width: 95%
 }
+
+.red {
+  color: #e74c3c;
+}
